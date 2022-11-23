@@ -36,5 +36,3 @@ Also:
 Note: 
 > 1) .idata and .edata may sometimes be within .rdata 
 > 2) Common packers like UPX will change the section headers to the name of the packer. so .code or .text becomes .upx , then .upx1, .upx2 and so on.
-
-![PE Headers](https://www.trustwave.com/images/slblog-03-02-2018-10-57-10/spiderlabs/85e5a55d-2522-4483-836a-1726932dec1f.png)
